@@ -101,6 +101,8 @@ tvm.contrib.relay_viz
     :members:
 .. automodule:: tvm.contrib.relay_viz.terminal
     :members:
+.. automodule:: tvm.contrib.relay_viz.dot
+    :members:
 
 
 tvm.contrib.rocblas

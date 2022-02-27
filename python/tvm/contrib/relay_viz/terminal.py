@@ -166,7 +166,7 @@ class TermGraph(VizGraph):
 
         Parameters
         ----------
-        id_start : VizEdge
+        viz_edge : VizEdge
             A `VizEdge` instance.
         """
         # Take CallNode as an example, instead of "arguments point to CallNode",
